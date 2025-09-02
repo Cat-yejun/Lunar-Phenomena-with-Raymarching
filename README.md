@@ -83,3 +83,9 @@ https://github.com/user-attachments/assets/9d187639-502f-4a0d-af90-15d8ec06a994
 
 https://github.com/user-attachments/assets/b5484618-2d15-4922-bf9e-6fb92c377ba8
 
+------------------------------------------------------------------------
+
+
+## 🔮 Future Work
+
+-  Incorporate Earth’s atmospheric scattering effect to simulate the reddish tint observed during lunar eclipses, making the rendering more physically realistic.
